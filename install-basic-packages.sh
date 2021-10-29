@@ -27,4 +27,13 @@ sleep 1.5 && clear && sleep 1.5
 apt install perl -y && apt install openssh -y && apt install nmap -y && apt install bash -y && apt install zsh -y 
 sleep 1.5 && clear && sleep 1.5
 apt install php php-apache proot-distro termux-tools -y && apt install apache2 nginx nodejs -y 
+apt install w3m -y &&apt install golang -y && apt install unrar -y  && apt install proot -y
+sleep 1.5 && clear && sleep 1.5
+apt install bmon -y && apt install vim -y &&  apt install unzip -y && apt install cowsay -y && apt install figlet -y
+sleep 1.5 && clear && sleep 1.5
+apt install fish -y && apt install coreutils -y && apt install dnsutils -y && apt install clang -y && apt install openssl nano -y
+sleep 1.5 && clear && sleep 1.5
+
+
+ 
  
